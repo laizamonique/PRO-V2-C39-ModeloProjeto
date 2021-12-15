@@ -21,7 +21,7 @@ function preload(){
   shrub2 = loadImage("assets/shrub2.png");
   shrub3 = loadImage("assets/shrub3.png");
   obstacle1 = loadImage("assets/stone.png");
-  gameOverImg = loadImage("assets/gameOver.png");
+  gameOverImg = loadImage("assets/fimdejogo.png");
   restartImg = loadImage("assets/restart.png");
   jumpSound = loadSound("assets/jump.wav");
   collidedSound = loadSound("assets/collided.wav");
