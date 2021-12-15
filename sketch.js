@@ -143,7 +143,7 @@ function draw() {
     textSize(30);
     stroke(3);
     fill("black");
-    text("Congragulations!! You win the game!! ", 70,200);
+    text("Parabéns!! Você venceu o jogo!! ", 70,200);
     gameState = WIN;
   }
 }
