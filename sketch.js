@@ -217,7 +217,7 @@ function spawnObstacles() {
 
 }*/
 
-/*function reset(){
+function reset(){
   gameState = PLAY;
   gameOver.visible = false;
   restart.visible = false;
@@ -227,7 +227,7 @@ function spawnObstacles() {
   obstaclesGroup.destroyeach();
   shrubsGroup.destroyeach();
   score = 0;
-}*/
+}
 
 /*function reset(){
   gameState = PLAY;
